@@ -401,6 +401,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:big_boy": {
+    "criteria": {
+      "big_boy_0": "2025-03-15 04:20:29 +0000"
+    },
+    "done": true
+  },
   "lootr:25loot": {
     "criteria": {
       "loot_stat": "2025-03-15 03:59:06 +0000"
@@ -596,6 +602,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/extinction_spear": {
+    "criteria": {
+      "dreadbow": "2025-03-15 04:20:01 +0000"
+    },
+    "done": true
+  },
   "apotheosis:affix/chests": {
     "criteria": {
       "sword": "2025-03-15 03:22:52 +0000"
@@ -641,6 +653,12 @@
   "minecraft:adventure/ol_betsy": {
     "criteria": {
       "shot_crossbow": "2025-03-15 04:16:54 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/funeral_theft": {
+    "criteria": {
+      "coded_trigger": "2025-03-15 04:19:32 +0000"
     },
     "done": true
   },

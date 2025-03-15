@@ -3426,3 +3426,16 @@ java.lang.IllegalArgumentException: sectionPos out of bounds
 [15Mar2025 04:18:45.947] [Server thread/WARN] [tombstone/]: The death event of the player Frannciisscoo was canceled by another mod
 [15Mar2025 04:18:46.025] [Server thread/INFO] [tombstone/]: The player Frannciisscoo has successfully been saved
 [15Mar2025 04:19:23.883] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[15Mar2025 04:19:32.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bhackenov has made the advancement [Funeral Theft]
+[15Mar2025 04:19:32.630] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[15Mar2025 04:19:32.631] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[15Mar2025 04:20:01.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bhackenov has reached the goal [Spear of Ages]
+[15Mar2025 04:20:29.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bhackenov has reached the goal [Big Boy]
+[15Mar2025 04:21:40.336] [Worker-Main-3/ERROR] [net.minecraft.world.level.block.entity.SculkShriekerBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;-425,-56,-205],type:"minecraft:block"}}]
+[15Mar2025 04:22:20.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frannciisscoo has made the advancement [Goblin's Tyranny]
+[15Mar2025 04:23:16.232] [Server thread/INFO] [minecolonies/]: New Colony Id: 1 by Frannciisscoo
+[15Mar2025 04:26:23.090] [Server thread/WARN] [tombstone/]: The death event of the player Frannciisscoo was canceled by another mod
+[15Mar2025 04:26:23.100] [Server thread/INFO] [tombstone/]: The player Frannciisscoo has successfully been saved
+[15Mar2025 04:27:24.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frannciisscoo was slain by Door Knight
+[15Mar2025 04:27:25.569] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[15Mar2025 04:27:25.569] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
