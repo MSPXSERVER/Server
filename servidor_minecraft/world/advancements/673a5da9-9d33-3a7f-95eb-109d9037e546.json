@@ -505,6 +505,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-03-15 04:18:02 +0000",
       "minecraft:skeleton": "2025-03-15 03:35:22 +0000",
       "minecraft:witch": "2025-03-15 03:40:04 +0000",
       "minecraft:wither_skeleton": "2025-03-15 04:06:59 +0000",
@@ -558,6 +559,12 @@
   "immersive_armors:recipes/misc/warrior": {
     "criteria": {
       "has_item": "2025-03-15 04:08:45 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:dark_metallurgy": {
+    "criteria": {
+      "dark_metallurgy_0": "2025-03-15 04:10:47 +0000"
     },
     "done": true
   },
@@ -628,6 +635,12 @@
   "minecraft:adventure/throw_trident": {
     "criteria": {
       "shot_trident": "2025-03-15 03:41:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2025-03-15 04:16:54 +0000"
     },
     "done": true
   },

@@ -3415,3 +3415,14 @@ java.lang.IllegalArgumentException: sectionPos out of bounds
 [15Mar2025 04:06:38.087] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/21135, l='ServerLevel[world]', x=295.27, y=67.00, z=949.58] died, message: 'Fisherman was slain by Zombie'
 [15Mar2025 04:07:37.639] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/21955, l='ServerLevel[world]', x=335.92, y=67.00, z=958.45] died, message: 'Fisherman was slain by Spirit of Chaos'
 [15Mar2025 04:08:09.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frannciisscoo has made the advancement [Ice Bucket Challenge]
+[15Mar2025 04:10:47.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bhackenov has made the advancement [Dark Metallurgy]
+[15Mar2025 04:11:39.941] [Server thread/WARN] [tombstone/]: The death event of the player Frannciisscoo was canceled by another mod
+[15Mar2025 04:11:40.006] [Server thread/INFO] [tombstone/]: The player Frannciisscoo has successfully been saved
+[15Mar2025 04:14:30.190] [Server thread/WARN] [tombstone/]: The death event of the player Frannciisscoo was canceled by another mod
+[15Mar2025 04:14:30.256] [Server thread/INFO] [tombstone/]: The player Frannciisscoo has successfully been saved
+[15Mar2025 04:16:54.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bhackenov has made the advancement [Ol' Betsy]
+[15Mar2025 04:17:08.685] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Butcher'/21970, l='ServerLevel[world]', x=317.70, y=63.69, z=997.48] died, message: 'Butcher was slain by Enderman'
+[15Mar2025 04:17:40.338] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Butcher'/21972, l='ServerLevel[world]', x=383.10, y=67.54, z=1020.46] died, message: 'Butcher was shot by Pillager'
+[15Mar2025 04:18:45.947] [Server thread/WARN] [tombstone/]: The death event of the player Frannciisscoo was canceled by another mod
+[15Mar2025 04:18:46.025] [Server thread/INFO] [tombstone/]: The player Frannciisscoo has successfully been saved
+[15Mar2025 04:19:23.883] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
