@@ -3237,3 +3237,181 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [15Mar2025 03:27:36.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frannciisscoo has made the advancement [Your First Grave]
 [15Mar2025 03:27:37.406] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
 [15Mar2025 03:27:37.406] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[15Mar2025 03:29:03.753] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['literal{Bhackenov} (translation{key='entity.minecraft.zombie', args=[]})'/8535, l='ServerLevel[world]', x=302.07, y=62.94, z=92.36] died: literal{Bhackenov} (translation{key='entity.minecraft.zombie', args=[]}) was slain by Bhackenov
+[15Mar2025 03:29:16.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frannciisscoo has reached the goal [Here They Come]
+[15Mar2025 03:31:40.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bhackenov has made the advancement [Going Clubbing]
+[15Mar2025 03:31:58.305] [Worker-Main-1/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {count:1,id:"minecraft:enchanted_golden_apple"}
+[15Mar2025 03:31:58.305] [Worker-Main-1/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {count:1,id:"minecraft:diamond"}
+[15Mar2025 03:32:38.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frannciisscoo has made the advancement [Let's Get To Work]
+[15Mar2025 03:33:49.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bhackenov has made the advancement [Not Today, Thank You]
+[15Mar2025 03:35:00.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frannciisscoo has made the advancement [Stone Age]
+[15Mar2025 03:35:22.992] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Tabby the Professional Animator'/11398, l='ServerLevel[world]', x=210.34, y=72.00, z=92.90] died: Tabby the Professional Animator was slain by Bhackenov
+[15Mar2025 03:35:29.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bhackenov has completed the challenge [He Wasn't So Strong]
+[15Mar2025 03:38:13.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bhackenov has made the advancement [White Iron Chunk]
+[15Mar2025 03:39:27.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frannciisscoo has made the advancement [White Iron Chunk]
+[15Mar2025 03:40:04.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bhackenov has made the advancement [Knowledge of Death]
+[15Mar2025 03:40:04.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bhackenov has made the advancement [Ambush]
+[15Mar2025 03:40:39.044] [Server thread/WARN] [tombstone/]: The death event of the player Frannciisscoo was canceled by another mod
+[15Mar2025 03:40:39.107] [Server thread/INFO] [tombstone/]: The player Frannciisscoo has successfully been saved
+[15Mar2025 03:40:46.091] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Butcher'/13109, l='ServerLevel[world]', x=275.49, y=68.00, z=379.17] died, message: 'Butcher was slain by Zombie Lumberjack'
+[15Mar2025 03:41:03.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bhackenov has made the advancement [A Throwaway Joke]
+[15Mar2025 03:41:36.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frannciisscoo has made the advancement [Monster Hunter]
+[15Mar2025 03:42:16.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frannciisscoo has made the advancement [How'd You Get This?]
+[15Mar2025 03:42:49.964] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.IllegalArgumentException: sectionPos out of bounds
+	at net.minecraft.world.level.chunk.storage.SectionStorage.m_63827_(SectionStorage.java:106) ~[server-1.20.1-20230612.114412-srg.jar%23555!/:?]
+	at net.minecraft.world.entity.ai.village.poi.PoiManager.m_217919_(PoiManager.java:52) ~[server-1.20.1-20230612.114412-srg.jar%23555!/:?]
+	at net.minecraft.server.level.ServerLevel.m_215076_(ServerLevel.java:1217) ~[server-1.20.1-20230612.114412-srg.jar%23555!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23555!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23555!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23555!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23555!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23555!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23555!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23555!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23555!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23555!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23555!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23555!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23555!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[15Mar2025 03:42:49.967] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.IllegalArgumentException: sectionPos out of bounds
+	at net.minecraft.world.level.chunk.storage.SectionStorage.m_63827_(SectionStorage.java:106) ~[server-1.20.1-20230612.114412-srg.jar%23555!/:?]
+	at net.minecraft.world.entity.ai.village.poi.PoiManager.m_217919_(PoiManager.java:52) ~[server-1.20.1-20230612.114412-srg.jar%23555!/:?]
+	at net.minecraft.server.level.ServerLevel.m_215076_(ServerLevel.java:1217) ~[server-1.20.1-20230612.114412-srg.jar%23555!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23555!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23555!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23555!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23555!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23555!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23555!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23555!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23555!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23555!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:733) ~[server-1.20.1-20230612.114412-srg.jar%23555!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23555!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23555!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[15Mar2025 03:42:49.968] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.IllegalArgumentException: sectionPos out of bounds
+	at net.minecraft.world.level.chunk.storage.SectionStorage.m_63827_(SectionStorage.java:106) ~[server-1.20.1-20230612.114412-srg.jar%23555!/:?]
+	at net.minecraft.world.entity.ai.village.poi.PoiManager.m_217919_(PoiManager.java:52) ~[server-1.20.1-20230612.114412-srg.jar%23555!/:?]
+	at net.minecraft.server.level.ServerLevel.m_215076_(ServerLevel.java:1217) ~[server-1.20.1-20230612.114412-srg.jar%23555!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23555!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23555!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23555!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23555!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23555!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23555!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23555!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23555!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23555!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:733) ~[server-1.20.1-20230612.114412-srg.jar%23555!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23555!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23555!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[15Mar2025 03:42:49.968] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.IllegalArgumentException: sectionPos out of bounds
+	at net.minecraft.world.level.chunk.storage.SectionStorage.m_63827_(SectionStorage.java:106) ~[server-1.20.1-20230612.114412-srg.jar%23555!/:?]
+	at net.minecraft.world.entity.ai.village.poi.PoiManager.m_217919_(PoiManager.java:52) ~[server-1.20.1-20230612.114412-srg.jar%23555!/:?]
+	at net.minecraft.server.level.ServerLevel.m_215076_(ServerLevel.java:1217) ~[server-1.20.1-20230612.114412-srg.jar%23555!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23555!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23555!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23555!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23555!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23555!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23555!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23555!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23555!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23555!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:733) ~[server-1.20.1-20230612.114412-srg.jar%23555!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23555!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23555!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[15Mar2025 03:43:18.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frannciisscoo has made the advancement [Knowledge of Death]
+[15Mar2025 03:43:18.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frannciisscoo has made the advancement [A Strange Grave Dust]
+[15Mar2025 03:43:39.542] [Server thread/WARN] [tombstone/]: The death event of the player Frannciisscoo was canceled by another mod
+[15Mar2025 03:43:39.555] [Server thread/INFO] [tombstone/]: The player Frannciisscoo has successfully been saved
+[15Mar2025 03:43:46.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bhackenov has made the advancement [Ashes 'n Bones]
+[15Mar2025 03:44:41.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frannciisscoo was slain by Drowned
+[15Mar2025 03:44:42.648] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[15Mar2025 03:44:42.649] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[15Mar2025 03:44:54.651] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Florist'/16214, l='ServerLevel[world]', x=227.46, y=89.00, z=61.74] died, message: 'Florist was slain by Dire Hound Leader'
+[15Mar2025 03:45:14.964] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Drowned['literal{Frannciisscoo} (translation{key='entity.minecraft.drowned', args=[]})'/16095, l='ServerLevel[world]', x=229.80, y=64.00, z=420.73] died: literal{Frannciisscoo} (translation{key='entity.minecraft.drowned', args=[]}) was slain by Bhackenov
+[15Mar2025 03:45:16.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bhackenov has made the advancement [Good Demoman]
+[15Mar2025 03:47:29.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frannciisscoo has made the advancement [Ashes 'n Bones]
+[15Mar2025 03:47:29.221] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['General Diliviel the Rough'/17451, l='ServerLevel[world]', x=239.20, y=63.00, z=436.61] died: General Diliviel the Rough was slain by Frannciisscoo
+[15Mar2025 03:48:13.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frannciisscoo has completed the challenge [He Wasn't So Strong]
+[15Mar2025 03:48:58.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frannciisscoo has made the advancement [Mine? Mine? Mine?]
+[15Mar2025 03:50:11.009] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.IllegalArgumentException: sectionPos out of bounds
+	at net.minecraft.world.level.chunk.storage.SectionStorage.m_63827_(SectionStorage.java:106) ~[server-1.20.1-20230612.114412-srg.jar%23555!/:?]
+	at net.minecraft.world.entity.ai.village.poi.PoiManager.m_217919_(PoiManager.java:52) ~[server-1.20.1-20230612.114412-srg.jar%23555!/:?]
+	at net.minecraft.server.level.ServerLevel.m_215076_(ServerLevel.java:1217) ~[server-1.20.1-20230612.114412-srg.jar%23555!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23555!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23555!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23555!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23555!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23555!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23555!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23555!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23555!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23555!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:733) ~[server-1.20.1-20230612.114412-srg.jar%23555!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23555!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23555!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[15Mar2025 03:50:11.010] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.IllegalArgumentException: sectionPos out of bounds
+	at net.minecraft.world.level.chunk.storage.SectionStorage.m_63827_(SectionStorage.java:106) ~[server-1.20.1-20230612.114412-srg.jar%23555!/:?]
+	at net.minecraft.world.entity.ai.village.poi.PoiManager.m_217919_(PoiManager.java:52) ~[server-1.20.1-20230612.114412-srg.jar%23555!/:?]
+	at net.minecraft.server.level.ServerLevel.m_215076_(ServerLevel.java:1217) ~[server-1.20.1-20230612.114412-srg.jar%23555!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23555!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23555!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23555!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23555!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23555!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23555!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23555!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23555!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23555!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:733) ~[server-1.20.1-20230612.114412-srg.jar%23555!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23555!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23555!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[15Mar2025 03:50:27.829] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-33 absolute--50 absolute]
+[15Mar2025 03:51:16.289] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=353, y=-69, z=735} but found not block entity block Block{minecraft:air} at location
+[15Mar2025 03:51:16.289] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=353, y=-69, z=735}
+[15Mar2025 03:51:16.291] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=353, y=-69, z=738} but found not block entity block Block{minecraft:air} at location
+[15Mar2025 03:51:16.291] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=353, y=-69, z=738}
+[15Mar2025 03:51:16.291] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=353, y=-69, z=737} but found not block entity block Block{minecraft:air} at location
+[15Mar2025 03:51:16.292] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=353, y=-69, z=737}
+[15Mar2025 03:52:23.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frannciisscoo has made the advancement [Close Quarters]
+[15Mar2025 03:54:30.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bhackenov has made the advancement [What a Deal!]
+[15Mar2025 03:54:30.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bhackenov has made the advancement [First Trade]
+[15Mar2025 03:55:15.076] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[15Mar2025 03:55:53.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frannciisscoo has made the advancement [Cobweb Entanglement]
+[15Mar2025 03:55:56.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frannciisscoo has made the advancement [Nier Weapons]
+[15Mar2025 03:56:23.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bhackenov has made the advancement [Cobweb Entanglement]
+[15Mar2025 03:56:26.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bhackenov has made the advancement [Nier Weapons]
+[15Mar2025 03:56:43.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frannciisscoo has made the advancement [Barrel Booty]
+[15Mar2025 03:57:13.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bhackenov has made the advancement [Barrel Booty]
+[15Mar2025 03:57:13.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bhackenov has made the advancement [Disme A Dozen]
+[15Mar2025 03:57:38.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frannciisscoo has made the advancement [Penteconter]
+[15Mar2025 03:59:06.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bhackenov has made the advancement [Close Quarters]
+[15Mar2025 03:59:46.341] [Worker-Main-3/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[15Mar2025 04:00:17.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frannciisscoo has made the advancement [Fatty Demon]
+[15Mar2025 04:01:57.500] [Worker-Main-3/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:mine_with_campsite/side_pool which is being called from mvs:other_decoration/mine_with_campsite
+[15Mar2025 04:01:57.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bhackenov has made the advancement [Diamonds!]
+[15Mar2025 04:03:17.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frannciisscoo has made the advancement [Life turned out to be a comedy]
+[15Mar2025 04:04:39.983] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/21861, l='ServerLevel[world]', x=335.70, y=65.00, z=1020.27] died, message: 'Unemployed was slain by Dread Hound'
+[15Mar2025 04:04:47.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frannciisscoo has made the advancement [Ol' Betsy]
+[15Mar2025 04:04:47.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frannciisscoo has made the advancement [Take Aim]
+[15Mar2025 04:04:48.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bhackenov has made the advancement [Take Aim]
+[15Mar2025 04:05:23.436] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/21862, l='ServerLevel[world]', x=293.94, y=65.17, z=975.30] died, message: 'Unemployed was slain by Dread Hound'
+[15Mar2025 04:05:27.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bhackenov has reached the goal [Exorcism]
+[15Mar2025 04:05:42.290] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/21858, l='ServerLevel[world]', x=259.56, y=63.00, z=972.30] died, message: 'Unemployed was blown up by Creeper'
+[15Mar2025 04:06:38.087] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/21135, l='ServerLevel[world]', x=295.27, y=67.00, z=949.58] died, message: 'Fisherman was slain by Zombie'
+[15Mar2025 04:07:37.639] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/21955, l='ServerLevel[world]', x=335.92, y=67.00, z=958.45] died, message: 'Fisherman was slain by Spirit of Chaos'
+[15Mar2025 04:08:09.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frannciisscoo has made the advancement [Ice Bucket Challenge]
