@@ -7,3 +7,57 @@
 [17Mar2025 00:11:04.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frannciisscoo was doomed to fall by Piglin Brute
 [17Mar2025 00:11:04.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frannciisscoo has completed the challenge [This is Bonfires]
 [17Mar2025 00:11:04.465] [Server thread/INFO] [tombstone/]: The player Frannciisscoo has successfully been saved
+[17Mar2025 00:13:05.969] [Server thread/WARN] [tombstone/]: The death event of the player Bhackenov was canceled by another mod
+[17Mar2025 00:13:06.001] [Server thread/INFO] [tombstone/]: The player Bhackenov has successfully been saved
+[17Mar2025 00:13:34.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bhackenov has reached the goal [Strong or Careful]
+[17Mar2025 00:13:34.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bhackenov was slain by Nightmare Stalker
+[17Mar2025 00:13:36.039] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[17Mar2025 00:13:36.040] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[17Mar2025 00:14:59.816] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[17Mar2025 00:14:59.817] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[17Mar2025 00:15:22.441] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[17Mar2025 00:15:22.441] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[17Mar2025 00:15:47.676] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Shepherd'/11209, l='ServerLevel[world]', x=327.30, y=68.00, z=991.49] died, message: 'Shepherd was slain by Zombie'
+[17Mar2025 00:15:58.166] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/11210, l='ServerLevel[world]', x=327.30, y=68.00, z=990.50] died, message: 'Unemployed was slain by Zombie'
+[17Mar2025 00:18:27.223] [Server thread/WARN] [tombstone/]: The death event of the player Frannciisscoo was canceled by another mod
+[17Mar2025 00:18:27.233] [Server thread/INFO] [tombstone/]: The player Frannciisscoo has successfully been saved
+[17Mar2025 00:19:27.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frannciisscoo was slain by Baby Spider
+[17Mar2025 00:19:28.528] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[17Mar2025 00:19:28.528] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[17Mar2025 00:21:34.283] [Server thread/WARN] [tombstone/]: The death event of the player Frannciisscoo was canceled by another mod
+[17Mar2025 00:21:34.292] [Server thread/INFO] [tombstone/]: The player Frannciisscoo has successfully been saved
+[17Mar2025 00:23:16.473] [Server thread/WARN] [tombstone/]: The death event of the player Frannciisscoo was canceled by another mod
+[17Mar2025 00:23:16.481] [Server thread/INFO] [tombstone/]: The player Frannciisscoo has successfully been saved
+[17Mar2025 00:23:26.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frannciisscoo burned to death
+[17Mar2025 00:23:26.881] [Server thread/INFO] [tombstone/]: The player Frannciisscoo has successfully been saved
+[17Mar2025 00:23:29.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No entity was found
+[17Mar2025 00:23:31.737] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[17Mar2025 00:23:31.737] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[17Mar2025 00:23:31.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frannciisscoo has made the advancement [The Most Useful Key]
+[17Mar2025 00:23:37.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frannciisscoo has reached the goal [A Fast Comeback]
+[17Mar2025 00:23:57.228] [Server thread/WARN] [tombstone/]: The death event of the player Bhackenov was canceled by another mod
+[17Mar2025 00:23:57.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Killed Bhackenov
+[17Mar2025 00:23:57.239] [Server thread/INFO] [tombstone/]: The player Bhackenov has successfully been saved
+[17Mar2025 00:27:12.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Expected integer
+[17Mar2025 00:27:12.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...o diamond pickaxe<--[HERE]
+[17Mar2025 00:27:48.120] [Server thread/WARN] [tombstone/]: The death event of the player Frannciisscoo was canceled by another mod
+[17Mar2025 00:27:48.128] [Server thread/INFO] [tombstone/]: The player Frannciisscoo has successfully been saved
+[17Mar2025 00:27:59.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frannciisscoo burned to death
+[17Mar2025 00:27:59.933] [Server thread/INFO] [tombstone/]: The player Frannciisscoo has successfully been saved
+[17Mar2025 00:28:02.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Frannciisscoo a server operator
+[17Mar2025 00:28:05.269] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[17Mar2025 00:28:05.269] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[17Mar2025 00:28:31.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannciisscoo: Gave 1 [Diamond Pickaxe] to Frannciisscoo]
+[17Mar2025 00:29:45.674] [Server thread/WARN] [tombstone/]: The death event of the player Frannciisscoo was canceled by another mod
+[17Mar2025 00:29:45.683] [Server thread/INFO] [tombstone/]: The player Frannciisscoo has successfully been saved
+[17Mar2025 00:29:48.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frannciisscoo tried to swim in lava
+[17Mar2025 00:29:48.638] [Server thread/INFO] [tombstone/]: The player Frannciisscoo has successfully been saved
+[17Mar2025 00:29:49.938] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[17Mar2025 00:29:49.939] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[17Mar2025 00:30:36.318] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/19783, l='ServerLevel[world]', x=351.49, y=68.00, z=1037.63] died, message: 'Nitwit was slain by Decaying Zombie'
+[17Mar2025 00:30:51.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bhackenov has made the advancement [Penteconter]
+[17Mar2025 00:31:22.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannciisscoo: Gave 1 [Platinum Battle Hammer] to Frannciisscoo]
+[17Mar2025 00:31:44.975] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Frannciisscoo lost connection: Disconnected
+[17Mar2025 00:31:44.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frannciisscoo left the game
+[17Mar2025 00:31:44.976] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player Frannciisscoo[48ca0ed9-b5f9-3c14-8851-ab7ec172b0ab]
+[17Mar2025 00:31:44.979] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Frannciisscoo

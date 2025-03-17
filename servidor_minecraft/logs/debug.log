@@ -21255,3 +21255,285 @@ Total: 1051
 [17Mar2025 00:11:48.194] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
 [17Mar2025 00:11:50.340] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
 [17Mar2025 00:11:50.346] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[17Mar2025 00:12:22.767] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Mar2025 00:12:53.721] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Mar2025 00:12:53.774] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Mar2025 00:12:54.321] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Mar2025 00:12:55.170] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Mar2025 00:12:56.617] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Mar2025 00:12:57.268] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Mar2025 00:12:57.270] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Mar2025 00:12:58.126] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Mar2025 00:12:58.869] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Mar2025 00:12:59.628] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Mar2025 00:13:00.220] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Mar2025 00:13:01.970] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Mar2025 00:13:01.974] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Mar2025 00:13:02.668] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Mar2025 00:13:02.767] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Mar2025 00:13:03.968] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Mar2025 00:13:05.367] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Mar2025 00:13:05.969] [Server thread/WARN] [tombstone/]: The death event of the player Bhackenov was canceled by another mod
+[17Mar2025 00:13:06.001] [Server thread/INFO] [tombstone/]: The player Bhackenov has successfully been saved
+[17Mar2025 00:13:34.667] [Server thread/DEBUG] [io.redspace.ironsrpgtweaks.IronsRpgTweaks/]: Levels: 36
+Points: 0.14827491
+Total: 3014
+[17Mar2025 00:13:34.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bhackenov has reached the goal [Strong or Careful]
+[17Mar2025 00:13:34.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bhackenov was slain by Nightmare Stalker
+[17Mar2025 00:13:34.672] [Server thread/DEBUG] [tombstone/]: A new grave of the player Bhackenov was created at position [x:-19, y:44, z:1115, dim:minecraft:overworld]
+[17Mar2025 00:13:36.039] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[17Mar2025 00:13:36.040] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[17Mar2025 00:13:36.134] [Server thread/DEBUG] [twilightforest/]: Player Bhackenov (673a5da9-9d33-3a7f-95eb-109d9037e546) respawned and received items held in storage
+[17Mar2025 00:13:47.052] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Mar2025 00:13:47.092] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Mar2025 00:13:49.443] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:well/well_anchor_spruce
+[17Mar2025 00:13:51.158] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_2b
+[17Mar2025 00:13:51.871] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of underground_villages:village/underground/town_centers/meeting_point_3
+[17Mar2025 00:14:19.626] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/ship
+[17Mar2025 00:14:27.800] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:bunker/bunker_enterance_1
+[17Mar2025 00:14:37.573] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of signpost:village/plains/signpost
+[17Mar2025 00:14:37.576] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:priest_house
+[17Mar2025 00:14:37.577] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of morevillagers:village/plains/plains_woodworker
+[17Mar2025 00:14:37.578] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of signpost:village/common/waystone
+[17Mar2025 00:14:37.579] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of morevillagers:village/plains/plains_hunter
+[17Mar2025 00:14:37.591] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of morevillagers:village/plains/plains_oceanographer
+[17Mar2025 00:14:37.592] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of morevillagers:village/plains/plains_florist
+[17Mar2025 00:14:37.609] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of morevillagers:village/plains/plains_engineer
+[17Mar2025 00:14:47.852] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:houses/flower_hole
+[17Mar2025 00:14:59.816] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[17Mar2025 00:14:59.817] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[17Mar2025 00:15:22.441] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[17Mar2025 00:15:22.441] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[17Mar2025 00:15:22.450] [Server thread/DEBUG] [twilightforest/]: Player Frannciisscoo (48ca0ed9-b5f9-3c14-8851-ab7ec172b0ab) respawned and received items held in storage
+[17Mar2025 00:15:22.521] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/start_castle
+[17Mar2025 00:15:22.527] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/roads/bend1
+[17Mar2025 00:15:22.527] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/roads/straight2
+[17Mar2025 00:15:22.528] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/roads/t2
+[17Mar2025 00:15:22.529] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/roads/straight1
+[17Mar2025 00:15:22.535] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/roads/t1
+[17Mar2025 00:15:22.537] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/roads/inter1
+[17Mar2025 00:15:22.538] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/terminators/term3
+[17Mar2025 00:15:22.540] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/terminators/term1
+[17Mar2025 00:15:22.545] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/terminators/term2
+[17Mar2025 00:15:26.254] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in aether:the_aether
+[17Mar2025 00:15:47.676] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Shepherd'/11209, l='ServerLevel[world]', x=327.30, y=68.00, z=991.49] died, message: 'Shepherd was slain by Zombie'
+[17Mar2025 00:15:48.985] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Mar2025 00:15:56.480] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Mar2025 00:15:58.166] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/11210, l='ServerLevel[world]', x=327.30, y=68.00, z=990.50] died, message: 'Unemployed was slain by Zombie'
+[17Mar2025 00:16:18.501] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Mar2025 00:17:32.686] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Mar2025 00:17:32.689] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[17Mar2025 00:17:35.785] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Mar2025 00:17:35.787] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[17Mar2025 00:17:36.882] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Mar2025 00:17:36.884] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[17Mar2025 00:17:38.237] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Mar2025 00:17:38.239] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[17Mar2025 00:17:39.227] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Mar2025 00:17:39.229] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[17Mar2025 00:17:40.537] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Mar2025 00:17:40.541] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[17Mar2025 00:18:13.125] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Mar2025 00:18:14.472] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Mar2025 00:18:19.173] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Mar2025 00:18:19.175] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[17Mar2025 00:18:27.223] [Server thread/WARN] [tombstone/]: The death event of the player Frannciisscoo was canceled by another mod
+[17Mar2025 00:18:27.233] [Server thread/INFO] [tombstone/]: The player Frannciisscoo has successfully been saved
+[17Mar2025 00:18:47.080] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Mar2025 00:18:47.111] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Mar2025 00:19:27.172] [Server thread/DEBUG] [io.redspace.ironsrpgtweaks.IronsRpgTweaks/]: Levels: 27
+Points: 0.3195889
+Total: 1120
+[17Mar2025 00:19:27.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frannciisscoo was slain by Baby Spider
+[17Mar2025 00:19:27.176] [Server thread/DEBUG] [tombstone/]: A new grave of the player Frannciisscoo was created at position [x:-7, y:60, z:1085, dim:minecraft:overworld]
+[17Mar2025 00:19:28.528] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[17Mar2025 00:19:28.528] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[17Mar2025 00:19:28.539] [Server thread/DEBUG] [twilightforest/]: Player Frannciisscoo (48ca0ed9-b5f9-3c14-8851-ab7ec172b0ab) respawned and received items held in storage
+[17Mar2025 00:19:32.427] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Mar2025 00:19:35.575] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Mar2025 00:19:58.346] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_2 with rotation CLOCKWISE_90 at (-259 | 62 | 875)
+[17Mar2025 00:19:58.354] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_2 with rotation CLOCKWISE_90 at (-259 | 62 | 875)
+[17Mar2025 00:19:58.355] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room with rotation NONE at (-260 | 62 | 884)
+[17Mar2025 00:19:58.358] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room with rotation NONE at (-260 | 62 | 884)
+[17Mar2025 00:20:09.525] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Mar2025 00:20:13.273] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Mar2025 00:20:16.374] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Mar2025 00:20:17.026] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Mar2025 00:20:50.318] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Mar2025 00:20:50.370] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Mar2025 00:20:50.968] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Mar2025 00:20:51.020] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Mar2025 00:20:51.072] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Mar2025 00:20:51.418] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Mar2025 00:20:51.469] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Mar2025 00:20:51.519] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Mar2025 00:20:51.867] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Mar2025 00:20:51.918] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Mar2025 00:20:51.970] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Mar2025 00:20:52.018] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Mar2025 00:20:52.068] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Mar2025 00:20:52.122] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Mar2025 00:20:52.169] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Mar2025 00:20:52.218] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Mar2025 00:20:52.269] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Mar2025 00:20:52.318] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Mar2025 00:20:52.371] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Mar2025 00:20:52.420] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Mar2025 00:20:52.468] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Mar2025 00:20:52.517] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Mar2025 00:20:52.567] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Mar2025 00:20:52.616] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Mar2025 00:20:52.666] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Mar2025 00:20:52.717] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Mar2025 00:20:52.767] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Mar2025 00:20:52.818] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Mar2025 00:20:52.867] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Mar2025 00:20:52.918] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Mar2025 00:20:52.966] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Mar2025 00:20:53.017] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Mar2025 00:20:53.067] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Mar2025 00:20:53.116] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Mar2025 00:20:53.166] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Mar2025 00:20:53.217] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Mar2025 00:21:14.219] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in aether:the_aether
+[17Mar2025 00:21:34.283] [Server thread/WARN] [tombstone/]: The death event of the player Frannciisscoo was canceled by another mod
+[17Mar2025 00:21:34.292] [Server thread/INFO] [tombstone/]: The player Frannciisscoo has successfully been saved
+[17Mar2025 00:21:35.871] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Mar2025 00:21:42.569] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Mar2025 00:21:49.175] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Mar2025 00:21:54.970] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Mar2025 00:22:26.766] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Mar2025 00:22:26.922] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Mar2025 00:22:31.068] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Mar2025 00:22:55.766] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Mar2025 00:23:05.169] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Mar2025 00:23:09.667] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Mar2025 00:23:16.473] [Server thread/WARN] [tombstone/]: The death event of the player Frannciisscoo was canceled by another mod
+[17Mar2025 00:23:16.481] [Server thread/INFO] [tombstone/]: The player Frannciisscoo has successfully been saved
+[17Mar2025 00:23:20.367] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Mar2025 00:23:26.871] [Server thread/DEBUG] [io.redspace.ironsrpgtweaks.IronsRpgTweaks/]: Levels: 27
+Points: 0.8969086
+Total: 1176
+[17Mar2025 00:23:26.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frannciisscoo burned to death
+[17Mar2025 00:23:26.874] [Server thread/DEBUG] [tombstone/]: A new grave of the player Frannciisscoo was created at position [x:-10, y:-35, z:1148, dim:minecraft:overworld]
+[17Mar2025 00:23:26.881] [Server thread/INFO] [tombstone/]: The player Frannciisscoo has successfully been saved
+[17Mar2025 00:23:29.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No entity was found
+[17Mar2025 00:23:31.737] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[17Mar2025 00:23:31.737] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[17Mar2025 00:23:31.746] [Server thread/DEBUG] [twilightforest/]: Player Frannciisscoo (48ca0ed9-b5f9-3c14-8851-ab7ec172b0ab) respawned and received items held in storage
+[17Mar2025 00:23:31.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frannciisscoo has made the advancement [The Most Useful Key]
+[17Mar2025 00:23:37.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frannciisscoo has reached the goal [A Fast Comeback]
+[17Mar2025 00:23:43.919] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Mar2025 00:23:47.045] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Mar2025 00:23:47.080] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Mar2025 00:23:57.228] [Server thread/WARN] [tombstone/]: The death event of the player Bhackenov was canceled by another mod
+[17Mar2025 00:23:57.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Killed Bhackenov
+[17Mar2025 00:23:57.239] [Server thread/INFO] [tombstone/]: The player Bhackenov has successfully been saved
+[17Mar2025 00:25:29.055] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Mar2025 00:25:30.856] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Mar2025 00:25:39.622] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Mar2025 00:25:42.605] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Mar2025 00:25:52.470] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Mar2025 00:25:56.151] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Mar2025 00:26:03.171] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Mar2025 00:26:06.958] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Mar2025 00:26:19.673] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Mar2025 00:26:20.802] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Mar2025 00:26:27.472] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Mar2025 00:26:29.498] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Mar2025 00:26:32.770] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Mar2025 00:26:35.173] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Mar2025 00:26:36.103] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Mar2025 00:26:39.822] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Mar2025 00:26:44.210] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in minecraft:overworld
+[17Mar2025 00:27:03.217] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in twilightforest:twilight_forest
+[17Mar2025 00:27:12.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Expected integer
+[17Mar2025 00:27:12.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...o diamond pickaxe<--[HERE]
+[17Mar2025 00:27:35.966] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Mar2025 00:27:38.502] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Mar2025 00:27:48.120] [Server thread/WARN] [tombstone/]: The death event of the player Frannciisscoo was canceled by another mod
+[17Mar2025 00:27:48.128] [Server thread/INFO] [tombstone/]: The player Frannciisscoo has successfully been saved
+[17Mar2025 00:27:54.719] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Mar2025 00:27:57.250] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Mar2025 00:27:58.604] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Mar2025 00:27:59.604] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Mar2025 00:27:59.924] [Server thread/DEBUG] [io.redspace.ironsrpgtweaks.IronsRpgTweaks/]: Levels: 28
+Points: 0.47058702
+Total: 1234
+[17Mar2025 00:27:59.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frannciisscoo burned to death
+[17Mar2025 00:27:59.926] [Server thread/DEBUG] [tombstone/]: A new grave of the player Frannciisscoo was created at position [x:16, y:-21, z:1148, dim:minecraft:overworld]
+[17Mar2025 00:27:59.933] [Server thread/INFO] [tombstone/]: The player Frannciisscoo has successfully been saved
+[17Mar2025 00:28:02.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Frannciisscoo a server operator
+[17Mar2025 00:28:05.269] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[17Mar2025 00:28:05.269] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[17Mar2025 00:28:05.300] [Server thread/DEBUG] [twilightforest/]: Player Frannciisscoo (48ca0ed9-b5f9-3c14-8851-ab7ec172b0ab) respawned and received items held in storage
+[17Mar2025 00:28:19.223] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[17Mar2025 00:28:19.895] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Mar2025 00:28:21.522] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Mar2025 00:28:23.770] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Mar2025 00:28:25.896] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Mar2025 00:28:27.350] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Mar2025 00:28:31.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannciisscoo: Gave 1 [Diamond Pickaxe] to Frannciisscoo]
+[17Mar2025 00:28:34.299] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Mar2025 00:28:35.048] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Mar2025 00:28:47.055] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Mar2025 00:28:47.098] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Mar2025 00:28:55.198] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Mar2025 00:28:56.095] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Mar2025 00:28:58.550] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Mar2025 00:29:03.695] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Mar2025 00:29:04.744] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Mar2025 00:29:06.749] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Mar2025 00:29:10.845] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Mar2025 00:29:11.948] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Mar2025 00:29:14.099] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Mar2025 00:29:22.196] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Mar2025 00:29:23.146] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Mar2025 00:29:23.149] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[17Mar2025 00:29:24.044] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Mar2025 00:29:24.720] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Mar2025 00:29:24.722] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[17Mar2025 00:29:25.547] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Mar2025 00:29:26.297] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Mar2025 00:29:26.301] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[17Mar2025 00:29:30.049] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Mar2025 00:29:30.051] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[17Mar2025 00:29:34.423] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Mar2025 00:29:34.772] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Mar2025 00:29:35.471] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Mar2025 00:29:35.525] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Mar2025 00:29:36.772] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Mar2025 00:29:37.574] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Mar2025 00:29:38.820] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Mar2025 00:29:45.674] [Server thread/WARN] [tombstone/]: The death event of the player Frannciisscoo was canceled by another mod
+[17Mar2025 00:29:45.683] [Server thread/INFO] [tombstone/]: The player Frannciisscoo has successfully been saved
+[17Mar2025 00:29:48.092] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Mar2025 00:29:48.628] [Server thread/DEBUG] [io.redspace.ironsrpgtweaks.IronsRpgTweaks/]: Levels: 29
+Points: 0.056074366
+Total: 1294
+[17Mar2025 00:29:48.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frannciisscoo tried to swim in lava
+[17Mar2025 00:29:48.631] [Server thread/DEBUG] [tombstone/]: A new grave of the player Frannciisscoo was created at position [x:8, y:-18, z:1149, dim:minecraft:overworld]
+[17Mar2025 00:29:48.638] [Server thread/INFO] [tombstone/]: The player Frannciisscoo has successfully been saved
+[17Mar2025 00:29:48.823] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Mar2025 00:29:49.545] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Mar2025 00:29:49.938] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[17Mar2025 00:29:49.939] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[17Mar2025 00:29:49.972] [Server thread/DEBUG] [twilightforest/]: Player Frannciisscoo (48ca0ed9-b5f9-3c14-8851-ab7ec172b0ab) respawned and received items held in storage
+[17Mar2025 00:30:36.318] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/19783, l='ServerLevel[world]', x=351.49, y=68.00, z=1037.63] died, message: 'Nitwit was slain by Decaying Zombie'
+[17Mar2025 00:30:36.875] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Mar2025 00:30:37.772] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Mar2025 00:30:51.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bhackenov has made the advancement [Penteconter]
+[17Mar2025 00:31:00.875] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Mar2025 00:31:01.686] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Mar2025 00:31:02.678] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Mar2025 00:31:03.893] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Mar2025 00:31:04.930] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Mar2025 00:31:09.174] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Mar2025 00:31:10.209] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in minecraft:overworld
+[17Mar2025 00:31:22.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannciisscoo: Gave 1 [Platinum Battle Hammer] to Frannciisscoo]
+[17Mar2025 00:31:42.013] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Mar2025 00:31:44.975] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Frannciisscoo lost connection: Disconnected
+[17Mar2025 00:31:44.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frannciisscoo left the game
+[17Mar2025 00:31:44.976] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player Frannciisscoo[48ca0ed9-b5f9-3c14-8851-ab7ec172b0ab]
+[17Mar2025 00:31:44.978] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Frannciisscoo
+[17Mar2025 00:31:44.979] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Frannciisscoo

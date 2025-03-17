@@ -258,10 +258,9 @@
   },
   "incendium:technical/using/shield": {
     "criteria": {
-      "requirement": "2025-03-17 00:08:46 +0000",
       "log_spam_fixer": "2025-03-15 02:40:29 +0000"
     },
-    "done": true
+    "done": false
   },
   "tombstone:adventure/root": {
     "criteria": {
@@ -409,9 +408,11 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_beef": "2025-03-17 00:19:40 +0000",
       "apple": "2025-03-15 04:08:03 +0000",
       "potato": "2025-03-15 04:01:11 +0000",
       "bread": "2025-03-15 03:37:23 +0000",
+      "golden_apple": "2025-03-17 00:24:40 +0000",
       "salmon": "2025-03-15 03:47:46 +0000",
       "cod": "2025-03-15 03:17:21 +0000"
     },
@@ -471,6 +472,8 @@
       "minecraft:pillager": "2025-03-15 04:18:02 +0000",
       "minecraft:skeleton": "2025-03-15 03:35:22 +0000",
       "minecraft:piglin_brute": "2025-03-16 23:53:07 +0000",
+      "minecraft:spider": "2025-03-17 00:26:06 +0000",
+      "minecraft:creeper": "2025-03-17 00:10:05 +0000",
       "minecraft:witch": "2025-03-15 03:40:04 +0000",
       "minecraft:wither_skeleton": "2025-03-15 04:06:59 +0000",
       "minecraft:piglin": "2025-03-16 23:53:43 +0000",
@@ -671,6 +674,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2025-03-17 00:28:46 +0000"
+    },
+    "done": false
+  },
   "dungeons_arise:find_mushroom_village": {
     "criteria": {
       "location0": "2025-03-16 23:50:25 +0000"
@@ -682,6 +691,12 @@
       "arcane_bow": "2025-03-16 23:52:09 +0000"
     },
     "done": false
+  },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2025-03-17 00:13:34 +0000"
+    },
+    "done": true
   },
   "too_many_bows:root": {
     "criteria": {
