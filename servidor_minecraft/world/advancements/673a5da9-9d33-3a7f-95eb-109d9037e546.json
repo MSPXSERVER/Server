@@ -469,8 +469,10 @@
     "criteria": {
       "minecraft:pillager": "2025-03-15 04:18:02 +0000",
       "minecraft:skeleton": "2025-03-15 03:35:22 +0000",
+      "minecraft:piglin_brute": "2025-03-16 23:53:07 +0000",
       "minecraft:witch": "2025-03-15 03:40:04 +0000",
       "minecraft:wither_skeleton": "2025-03-15 04:06:59 +0000",
+      "minecraft:piglin": "2025-03-16 23:53:43 +0000",
       "minecraft:zombie": "2025-03-15 03:25:23 +0000",
       "minecraft:drowned": "2025-03-15 03:44:02 +0000"
     },
@@ -665,6 +667,24 @@
   "goblins_tyranny:goblins_encounter_success": {
     "criteria": {
       "goblins_encounter_success_0": "2025-03-15 04:32:00 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_mushroom_village": {
+    "criteria": {
+      "location0": "2025-03-16 23:50:25 +0000"
+    },
+    "done": true
+  },
+  "too_many_bows:master_bow_collector": {
+    "criteria": {
+      "arcane_bow": "2025-03-16 23:52:09 +0000"
+    },
+    "done": false
+  },
+  "too_many_bows:root": {
+    "criteria": {
+      "has_any_bow": "2025-03-16 23:52:09 +0000"
     },
     "done": true
   },

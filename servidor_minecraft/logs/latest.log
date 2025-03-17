@@ -3210,3 +3210,12 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [16Mar2025 23:51:16.971] [ForkJoinPool-5-worker-3/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loaded skin for player MHF_MushroomCow[a46817d6-73c5-4f3f-b712-af6b3ff47b96]
 [16Mar2025 23:51:16.978] [ForkJoinPool-5-worker-4/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: File https://crafatar.com/skins/a46817d6-73c5-4f3f-b712-af6b3ff47b96 downloaded
 [16Mar2025 23:51:16.978] [ForkJoinPool-5-worker-4/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loaded skin for player MHF_MushroomCow[a46817d6-73c5-4f3f-b712-af6b3ff47b96]
+[16Mar2025 23:52:09.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bhackenov has made the advancement [Too Many Bows]
+[16Mar2025 23:52:47.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Frannciisscoo> hice el grupo mmgv
+[16Mar2025 23:53:29.931] [Worker-Main-3/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[16Mar2025 23:55:37.284] [Server thread/WARN] [tombstone/]: The death event of the player Frannciisscoo was canceled by another mod
+[16Mar2025 23:55:37.331] [Server thread/INFO] [tombstone/]: The player Frannciisscoo has successfully been saved
+[16Mar2025 23:56:18.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frannciisscoo has made the advancement [Diamonds!]
+[16Mar2025 23:56:55.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frannciisscoo has made the advancement [Magic Writing]
+[16Mar2025 23:57:01.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frannciisscoo has reached the goal [To be or not to be]
+[16Mar2025 23:57:25.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frannciisscoo has made the advancement [Knowledge raises the soul]

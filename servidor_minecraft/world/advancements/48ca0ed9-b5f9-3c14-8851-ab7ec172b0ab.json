@@ -486,8 +486,10 @@
     "criteria": {
       "minecraft:skeleton": "2025-03-15 03:41:36 +0000",
       "minecraft:spider": "2025-03-15 04:21:09 +0000",
+      "minecraft:piglin_brute": "2025-03-16 23:53:37 +0000",
       "minecraft:wither_skeleton": "2025-03-15 04:05:27 +0000",
       "minecraft:husk": "2025-03-15 03:47:29 +0000",
+      "minecraft:piglin": "2025-03-16 23:54:07 +0000",
       "minecraft:zombie": "2025-03-15 03:42:29 +0000",
       "minecraft:drowned": "2025-03-15 03:41:44 +0000"
     },
@@ -610,6 +612,36 @@
   "goblins_tyranny:goblins_encounter_success": {
     "criteria": {
       "goblins_encounter_success_0": "2025-03-15 04:22:20 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_mushroom_village": {
+    "criteria": {
+      "location0": "2025-03-16 23:51:33 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_unstable_intangibility": {
+    "criteria": {
+      "has_magic_scroll": "2025-03-16 23:57:01 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/choose_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-03-16 23:57:25 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_scroll": {
+    "criteria": {
+      "has_magic_scroll": "2025-03-16 23:56:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-03-16 23:56:18 +0000"
     },
     "done": true
   },
